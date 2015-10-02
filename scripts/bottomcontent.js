@@ -58,7 +58,7 @@ $(function () {
         $("#links").isotope("insert", linkdiv);
     }
 
-    addLink("Azard", "http://azard.me/");
+    /*addLink("Azard", "http://azard.me/");
     addLink("Belleve", "http://typeof.net/");
     addLink("Breeswish", "https://breeswish.org/blog/");
     addLink("Ivan", "ivanavalon.com/");
@@ -70,5 +70,5 @@ $(function () {
     addLink("Zacks", "http://scriptogr.am/zacks/");
     addLink("Zhoutall", "http://zhoutall.com");
     addLink("测测", "http://gaocegege.com/Blog/");
-    addLink("飞龙", "http://www.flygon.net/");
+    addLink("飞龙", "http://www.flygon.net/");*/
 })
