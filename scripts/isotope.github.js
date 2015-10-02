@@ -1,6 +1,6 @@
 // Connect to GitHub
 
-var username = "hczhcz";
+var username = "gblym";
 
 function datefmt(value) {
     return value.substr(0, 10);
